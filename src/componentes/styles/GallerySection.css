@@ -1,0 +1,15 @@
+
+
+.gallery-section {
+    display: flex;
+    gap: 1px;
+    justify-content: space-around;
+  }
+  
+  .gallery-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  

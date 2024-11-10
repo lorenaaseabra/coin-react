@@ -1,0 +1,18 @@
+
+
+.texto-section {
+    height: 200px;
+    overflow-y: auto;
+  }
+  
+  .texto-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .texto-section p {
+    white-space: pre-wrap;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
